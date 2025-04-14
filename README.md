@@ -1,4 +1,4 @@
-Deploying the Chatbot on AWS Cloud
+Deploying the Chatbot (developed using python) on AWS Cloud
 AWS Instance Setup:
 
 I launched an AWS Linux or Ubuntu instance and performed the initial setup by updating the system and installing necessary packages with commands like sudo apt update and sudo apt install. I then cloned the project repository from GitHub to the instance and configured the environment by creating and editing a .env file to include the essential API keys for the application.
